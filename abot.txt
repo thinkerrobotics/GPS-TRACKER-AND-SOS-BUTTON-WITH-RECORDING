@@ -1,0 +1,7 @@
+This is a Multipurpose GPS tracker project and it can act like an audio spy
+gadget where you can listen to conversations secretly over cellular
+network, this can also act as an SOS button whereby the just press of a button
+you can share your current location via SMS and also it will make a call on
+that SOS number and can track the location of this A9G board by just sending one SMS. Yes
+by sending an SMS this board will return a Google Maps link with it’s
+current location in it.
